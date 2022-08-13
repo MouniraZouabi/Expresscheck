@@ -1,0 +1,72 @@
+body {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+}
+
+#title {
+  padding-right: 1%;
+text-align: center; 
+ font-size: 30px;
+  font-weight: 10;
+font-family: Georgia;
+color: #fdfdfe;
+  text-shadow: 0px 0px 5px gold, 0px 0px 10px #b393d3, 0px 0px 10px #b393d3,
+    0px 0px 20px rgb(137, 128, 211);
+}
+
+h3{
+
+  font-family: Georgia,'serif' ;
+  color:rgb(241, 241, 241);
+  font-size: 20px;
+  
+}
+#av {
+  background-image: url(https://torange.biz/photo/44/ICO/night-new-photos-dark-sky-stars-44700.jpg);
+  background-repeat: no-repeat;
+  width: 100%;
+  background-size: cover;
+}
+
+button{
+
+  color :rgba(245, 210, 11, 0.733);
+}
+h3 {
+  -webkit-transition: color 1s;
+  transition: color 1s;
+}
+h3:hover {
+  color: rgba(255, 217, 0, 0.514);
+}
+
+a:hover, a:visited, a:link, a:active
+{
+    text-decoration: none;
+}
+
+button:hover{
+  background: rgba(240, 240, 197, 0.39);
+}
+
+h5{
+padding: 2%;
+margin-left: 2%;
+  font-family: Georgia;
+  color:rgb(241, 241, 241);
+  font-size: 40px;
+  font-weight: 400;
+}
+
+p{
+  margin-left: 3%;
+  font-family: '';
+  color:rgb(241, 241, 241);
+  font-size: 20px;
+
+}
+ #p1{
+  color: black;
+  font-size: medium;
+ }
